@@ -1,5 +1,3 @@
-Structured and Unstructured Data
-=======================================================================================
 
 Data collection and analysis are key components of implementing AI-based predictive analytics systems. These systems use both structured and unstructured data to make predictions about future outcomes. In this chapter, we will discuss the importance of data collection and analysis for predictive analytics, as well as strategies for effectively collecting and analyzing structured and unstructured data.
 

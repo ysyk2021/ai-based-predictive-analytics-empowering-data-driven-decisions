@@ -1,5 +1,3 @@
-Traditional Approaches to Data Analysis and Decision Making
-===============================================================================================
 
 Before the rise of predictive analytics, organizations relied on traditional approaches to data analysis and decision-making. These approaches were often based on intuition and experience rather than data-driven insights. In this chapter, we will explore some of the most common traditional approaches to data analysis and decision-making, along with their limitations.
 

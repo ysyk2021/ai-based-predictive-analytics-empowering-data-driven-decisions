@@ -1,5 +1,3 @@
-Overview of Data Collection and Analysis for Predictive Analytics
-========================================================================================================================
 
 Data collection and analysis are important components of implementing AI-based predictive analytics systems. These systems use data to make predictions about future outcomes, and therefore, it is critical to ensure that the data used is accurate and comprehensive. In this chapter, we will provide an overview of data collection and analysis for predictive analytics.
 

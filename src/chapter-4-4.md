@@ -1,5 +1,3 @@
-External and Internal Data Sources
-=========================================================================================
 
 Data collection and analysis are critical components of AI-based predictive analytics. To accurately predict future outcomes, organizations must collect and analyze data from both external and internal sources. In this chapter, we will discuss the importance of both external and internal data sources for predictive analytics and strategies for effectively collecting and analyzing these data types.
 

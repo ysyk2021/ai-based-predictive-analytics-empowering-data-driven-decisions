@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Predictive Analytics
-================================================================================================================================
 
 Artificial intelligence (AI) is becoming increasingly popular in the field of predictive analytics. There are several different types of AI, each with its own capabilities and limitations. In this chapter, we will discuss the different types of AI and their applications in predictive analytics.
 

@@ -1,5 +1,3 @@
-Overview of Predictive Analytics
-====================================================================
 
 Predictive analytics is a technique for using historical data to identify patterns and make predictions about future events or trends. In recent years, advances in machine learning and artificial intelligence (AI) have made it possible to develop predictive models that are more accurate and versatile than ever before.
 

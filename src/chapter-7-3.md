@@ -1,5 +1,3 @@
-Implications for the Future of Data-Driven Decision Making
-============================================================================================
 
 As AI-based predictive analytics continues to evolve and mature, it is important to consider its future directions and challenges. In this chapter, we will explore the implications of AI-based predictive analytics for the future of data-driven decision making.
 

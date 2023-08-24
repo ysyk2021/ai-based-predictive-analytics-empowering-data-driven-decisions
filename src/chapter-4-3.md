@@ -1,5 +1,3 @@
-Historical and Real-Time Data
-====================================================================================
 
 Data collection and analysis are key components of AI-based predictive analytics. To accurately forecast future outcomes, organizations must collect and analyze historical and real-time data. In this chapter, we will discuss the importance of both historical and real-time data for predictive analytics and strategies for effectively collecting and analyzing these data types.
 

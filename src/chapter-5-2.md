@@ -1,5 +1,3 @@
-Regression Analysis and Time Series Forecasting
-========================================================================================================
 
 In this chapter, we will explore two important techniques used in AI-based predictive analytics: regression analysis and time series forecasting. These techniques are commonly used in a wide range of applications, including finance, marketing, and operations.
 

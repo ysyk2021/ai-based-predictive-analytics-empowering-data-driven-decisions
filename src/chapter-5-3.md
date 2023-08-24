@@ -1,5 +1,3 @@
-Classification and Clustering
-======================================================================================
 
 In this chapter, we will explore two essential techniques used in AI-based predictive analytics: classification and clustering. These techniques can help organizations identify patterns in data, make accurate predictions, and uncover hidden insights.
 

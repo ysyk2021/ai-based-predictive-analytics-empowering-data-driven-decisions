@@ -1,5 +1,3 @@
-Neural Networks and Deep Learning
-==========================================================================================
 
 In this chapter, we will explore two powerful techniques used in AI-based predictive analytics: neural networks and deep learning. These techniques are becoming increasingly popular in many industries due to their ability to analyze massive amounts of data quickly and accurately.
 
