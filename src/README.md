@@ -8,3 +8,7 @@ In this book, we'll explore various ways in which AI can be used in predictive a
 Whether you're looking to reduce costs, improve efficiency, or enhance customer experiences, this book will provide you with the knowledge and tools needed to achieve your goals. The chapters that follow will delve deeper into specific topics related to AI-based predictive analytics, providing you with a comprehensive guide for implementing these strategies in your organization.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
